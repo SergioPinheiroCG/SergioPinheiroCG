@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou [Sérgio Pinheiro] 👋
 
-<!--
-**SergioPinheiroCG/SergioPinheiroCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor full stack e estudante de Sistemas de Informação na Unifacisa. Com formação em História e experiência em liderança comunitária, gosto de unir tecnologia e habilidades interpessoais para resolver problemas e criar soluções inovadoras.
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas ⚙️
+- **Linguagens:** HTML, CSS, JavaScript, Python, Java
+- **Banco de dados:** MySQL, MongoDB
+- **Ferramentas:** Postman, VSCode, Eclipse, Pycharm
+- **Métodos Ágeis:** Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos Principais 🚀
+- [EasyStock](link) - Sistema de estoque usando Node.js e MongoDB.
+- [Sistema de Gerenciamento de Pedidos](link) - Sistema em Java para gerenciamento de pedidos com prioridade.
+
+## Formação 📚
+- **Sistemas de Informação** (cursando) - Unifacisa
+- **Licenciatura e Bacharelado em História**
+
+## Estatísticas do GitHub 📊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact)
+
+## Contato 📬
+- [LinkedIn](link)
+- [Email](sermagpb@gmail.com)
