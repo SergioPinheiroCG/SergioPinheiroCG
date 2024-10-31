@@ -17,8 +17,8 @@ Desenvolvedor full stack e estudante de Sistemas de Informação na Unifacisa. C
 - **Licenciatura e Bacharelado em História**
 
 ## Estatísticas do GitHub 📊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SergioPinheiroCG=SergioPinheiroCG&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?SergioPinheiroCG=SergioPinheiroCG&layout=compact)
 
 ## Contato 📬
 - [LinkedIn](link)
